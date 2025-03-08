@@ -18,10 +18,6 @@ A sleek and user-friendly web application that generates QR codes for any websit
 - JavaScript
 - qrcode.js library
 
-## Live Demo
-
-[Add your live demo link here]
-
 ## Quick Start
 
 1. Clone the repository
